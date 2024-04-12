@@ -1,0 +1,14 @@
+Logical Expressions Evaluator
+-----------------------------
+Enter the number of variables in the expression: 5
+Enter the values of variables - true or false:
+a: false
+b: false
+c: true
+d: true
+e: false
+Enter the logical expression:
+c /\ e /\ b /\ (~a \/ d)
+The value of the given logical expression is false.
+
+Process finished with exit code 0

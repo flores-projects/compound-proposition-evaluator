@@ -1,0 +1,11 @@
+Logical Expressions Evaluator
+-----------------------------
+Enter the number of variables in the expression: 2
+Enter the values of variables - true or false:
+a: true
+b: false
+Enter the logical expression:
+b /\ a \/ ~a
+The value of the given logical expression is false.
+
+Process finished with exit code 0

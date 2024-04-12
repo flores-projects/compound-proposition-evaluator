@@ -1,0 +1,35 @@
+Logical Expressions Evaluator
+-----------------------------
+Enter the number of variables in the expression: hello world
+Please input an integer.
+Enter the number of variables in the expression: no
+Please input an integer.
+Enter the number of variables in the expression: fine ok
+Please input an integer.
+Enter the number of variables in the expression: 89
+Maximum of 5 variables. Variable count set to 5.
+Enter the values of variables - true or false:
+a: 87
+Invalid value. Enter true of false.
+a: true
+b: flase
+Invalid value. Enter true of false.
+b: false
+c: true
+d: false
+e: false
+Enter the logical expression:
+ok here i go
+Invalid expression. Enter again.
+a ^ b ^ c ^ d
+Invalid expression. Enter again.
+a/\d
+Invalid expression. Enter again.
+a /\ f
+Invalid expression. Enter again.
+aaaaa
+Invalid expression. Enter again.
+a \/ b /\ ~c
+The value of the given logical expression is true.
+
+Process finished with exit code 0
